@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pip
+matplotlib
+seaborn
+plotly
+openpyxl
+streamlit-aggrid
+
