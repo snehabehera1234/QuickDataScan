@@ -32,6 +32,7 @@ Currently supports basic stats and visual checks.
 - **Streamlit**
 - **Matplotlib**
 - **Plotly**
+- **seaborn**
 
 -----------------------------------------------------------
 ## 📄 File Types Supported
